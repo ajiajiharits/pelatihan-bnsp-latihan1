@@ -16,7 +16,7 @@ PERSIAPAN
 5. Pilih menu Import, lalu pilih file database.sql dari folder proyek.
 6. Klik Import / Go untuk membuat database dan tabel.
 7. Buka aplikasi melalui browser:
-   http://localhost/bnsp/
+   http://localhost/bnsp/pelatihan-bnsp-latihan1
 
 PENGATURAN DATABASE
 Buka koneksi.php.
