@@ -16,7 +16,7 @@ PERSIAPAN
 5. Pilih menu Import, lalu pilih file database.sql dari folder proyek.
 6. Klik Import / Go untuk membuat database dan tabel.
 7. Buka aplikasi melalui browser:
-   http://localhost/aplikasi_pendaftaran_siswa/
+   http://localhost/bnsp/
 
 PENGATURAN DATABASE
 Buka koneksi.php.
